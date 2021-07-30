@@ -1,7 +1,6 @@
 import './App.css';
 import ProfilePhoto from './ProfilePhoto.jpg';
-import FullName from './FullName.js';
-import Adresse from './Adresse.js';
+imp
 
 function App() {
   return (
